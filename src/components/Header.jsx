@@ -42,7 +42,7 @@ export default function Header() {
                     
 
                     <a
-                        onClick={()=>window.open("https://drive.google.com/file/d/1dJ2bDgFBOqvJirx7B2kVM5CxG8kSGG7b/view?usp=sharing","_blank")}
+                        onClick={()=>window.open("https://drive.google.com/file/d/1lvY24vpkwRyEymt7p90MMs4_oQl8GO2C/view?usp=drive_link","_blank")}
                         download
                         className="px-10 py-2.5 rounded-sm border border-gray-300 hover:bg-slate-100/70 flex items-center gap-2 bg-white text-black cursor-pointer"
                     >
